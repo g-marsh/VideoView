@@ -1,0 +1,9 @@
+<resources>
+    <!--
+    <string name="app_name">VideoView</string>
+    -->
+    <string name="app_name">Video Player</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
